@@ -237,7 +237,7 @@ namespace Lab_1
 
 
 
-            static Tuple<int, int, int, char> foo(int[] mas, string str_11)
+            Tuple<int, int, int, char> foo(int[] mas, string str_11)
             {
                 int min = 99, max = 0, sum = 0; 
                 char h;

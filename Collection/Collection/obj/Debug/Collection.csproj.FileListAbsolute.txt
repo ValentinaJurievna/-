@@ -1,0 +1,11 @@
+C:\Users\Admin\Programming\part 2\Collection\Collection\bin\Debug\Collection.exe.config
+C:\Users\Admin\Programming\part 2\Collection\Collection\bin\Debug\Collection.exe
+C:\Users\Admin\Programming\part 2\Collection\Collection\bin\Debug\Collection.pdb
+C:\Users\Admin\Programming\part 2\Collection\Collection\obj\Debug\Collection.csprojAssemblyReference.cache
+C:\Users\Admin\Programming\part 2\Collection\Collection\obj\Debug\Collection.Form1.resources
+C:\Users\Admin\Programming\part 2\Collection\Collection\obj\Debug\Collection.Properties.Resources.resources
+C:\Users\Admin\Programming\part 2\Collection\Collection\obj\Debug\Collection.csproj.GenerateResource.cache
+C:\Users\Admin\Programming\part 2\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Programming\part 2\Collection\Collection\obj\Debug\Collection.exe
+C:\Users\Admin\Programming\part 2\Collection\Collection\obj\Debug\Collection.pdb
+C:\Users\Admin\Programming\part 2\Collection\Collection\obj\Debug\Collection.Form2.resources

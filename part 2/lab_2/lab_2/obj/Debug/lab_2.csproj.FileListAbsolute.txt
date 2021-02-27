@@ -1,0 +1,20 @@
+C:\Users\Admin\Programming\part 2\lab_2\lab_2\bin\Debug\lab_2.exe.config
+C:\Users\Admin\Programming\part 2\lab_2\lab_2\bin\Debug\lab_2.exe
+C:\Users\Admin\Programming\part 2\lab_2\lab_2\bin\Debug\lab_2.pdb
+C:\Users\Admin\Programming\part 2\lab_2\lab_2\obj\Debug\lab_2.csprojAssemblyReference.cache
+C:\Users\Admin\Programming\part 2\lab_2\lab_2\obj\Debug\lab_2.Form1.resources
+C:\Users\Admin\Programming\part 2\lab_2\lab_2\obj\Debug\lab_2.Properties.Resources.resources
+C:\Users\Admin\Programming\part 2\lab_2\lab_2\obj\Debug\lab_2.csproj.GenerateResource.cache
+C:\Users\Admin\Programming\part 2\lab_2\lab_2\obj\Debug\lab_2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Programming\part 2\lab_2\lab_2\obj\Debug\lab_2.exe
+C:\Users\Admin\Programming\part 2\lab_2\lab_2\obj\Debug\lab_2.pdb
+D:\2 курс\2 сем\ООП\Programming\part 2\lab_2\lab_2\bin\Debug\lab_2.exe.config
+D:\2 курс\2 сем\ООП\Programming\part 2\lab_2\lab_2\bin\Debug\lab_2.exe
+D:\2 курс\2 сем\ООП\Programming\part 2\lab_2\lab_2\bin\Debug\lab_2.pdb
+D:\2 курс\2 сем\ООП\Programming\part 2\lab_2\lab_2\obj\Debug\lab_2.csprojAssemblyReference.cache
+D:\2 курс\2 сем\ООП\Programming\part 2\lab_2\lab_2\obj\Debug\lab_2.Form1.resources
+D:\2 курс\2 сем\ООП\Programming\part 2\lab_2\lab_2\obj\Debug\lab_2.Properties.Resources.resources
+D:\2 курс\2 сем\ООП\Programming\part 2\lab_2\lab_2\obj\Debug\lab_2.csproj.GenerateResource.cache
+D:\2 курс\2 сем\ООП\Programming\part 2\lab_2\lab_2\obj\Debug\lab_2.csproj.CoreCompileInputs.cache
+D:\2 курс\2 сем\ООП\Programming\part 2\lab_2\lab_2\obj\Debug\lab_2.exe
+D:\2 курс\2 сем\ООП\Programming\part 2\lab_2\lab_2\obj\Debug\lab_2.pdb

@@ -1,21 +1,24 @@
-{
-	"title": "Konstantin Mironov",
-	"text": "Константин Миронов",
-	"department": "Web & Mobile",
-	"room": "543",
-	"image": "img/1.png"
-}
-{
-	"title": "Ivan Ivanov",
-	"text": "Иван Иванов",
-	"department": "Web & Mobile",
-	"room": "231",
-	"image": "img/2.png"
-}
-{
-	"title": "Pete Petrov",
-	"text": "Петя Петров",
-	"department": "Web & Mobile",
-	"room": "212",
-	"image": "img/3.png"
-}
+[
+	{
+		"title": "Konstantin Mironov",
+		"text": "Константин Миронов",
+		"department": "Web & Mobile",
+		"room": "543",
+		"image": "img/1.png"
+	},
+	{
+		"title": "Ivan Ivanov",
+		"text": "Иван Иванов",
+		"department": "Web & Mobile",
+		"room": "231",
+		"image": "img/2.png"
+	},
+	{
+		"title": "Pete Petrov",
+		"text": "Петя Петров",
+		"department": "Web & Mobile",
+		"room": "212",
+		"image": "img/3.png"
+	}
+]
+

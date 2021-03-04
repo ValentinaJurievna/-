@@ -2,22 +2,40 @@
 	{
 		"title": "Konstantin Mironov",
 		"text": "Константин Миронов",
-		"department": "Web & Mobile",
-		"room": "543",
+		"department": {
+			"icon": "img/suitcase.png",
+			"name": "Web & Mobile"
+		},
+		"room": {
+			"icon": "img/door.png",
+			"number": 543
+		},
 		"image": "img/1.png"
 	},
 	{
 		"title": "Ivan Ivanov",
 		"text": "Иван Иванов",
-		"department": "Web & Mobile",
-		"room": "231",
+		"department": {
+			"icon": "img/suitcase.png",
+			"name": "Web & Mobile"
+		},
+		"room": {
+			"icon": "img/door.png",
+			"number": 981
+		},
 		"image": "img/2.png"
 	},
 	{
 		"title": "Pete Petrov",
 		"text": "Петя Петров",
-		"department": "Web & Mobile",
-		"room": "212",
+		"department": {
+			"icon": "img/suitcase.png",
+			"name": "Web & Mobile"
+		},
+		"room": {
+			"icon": "img/door.png",
+			"number": 762
+		},
 		"image": "img/3.png"
 	}
 ]

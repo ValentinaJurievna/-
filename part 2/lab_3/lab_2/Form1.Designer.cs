@@ -62,7 +62,13 @@
             this.sms = new System.Windows.Forms.CheckBox();
             this.banking = new System.Windows.Forms.CheckBox();
             this.OwnerMakeDeposit = new System.Windows.Forms.CheckedListBox();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.Search = new System.Windows.Forms.ToolStripMenuItem();
+            this.Sort = new System.Windows.Forms.ToolStripMenuItem();
+            this.Save = new System.Windows.Forms.ToolStripMenuItem();
+            this.aboutProgram = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.AgeOfOwner)).BeginInit();
+            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // TextTypeOfDeposit
@@ -125,7 +131,7 @@
             // 
             this.Owner.AutoSize = true;
             this.Owner.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Owner.Location = new System.Drawing.Point(31, 40);
+            this.Owner.Location = new System.Drawing.Point(31, 51);
             this.Owner.Name = "Owner";
             this.Owner.Size = new System.Drawing.Size(129, 29);
             this.Owner.TabIndex = 10;
@@ -346,7 +352,7 @@
             // 
             this.label_account.AutoSize = true;
             this.label_account.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label_account.Location = new System.Drawing.Point(743, 40);
+            this.label_account.Location = new System.Drawing.Point(743, 51);
             this.label_account.Name = "label_account";
             this.label_account.Size = new System.Drawing.Size(69, 29);
             this.label_account.TabIndex = 34;
@@ -383,7 +389,7 @@
             this.addAccount.BackColor = System.Drawing.Color.MidnightBlue;
             this.addAccount.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.addAccount.ForeColor = System.Drawing.Color.White;
-            this.addAccount.Location = new System.Drawing.Point(748, 484);
+            this.addAccount.Location = new System.Drawing.Point(748, 506);
             this.addAccount.Name = "addAccount";
             this.addAccount.Size = new System.Drawing.Size(191, 45);
             this.addAccount.TabIndex = 37;
@@ -454,6 +460,45 @@
             this.OwnerMakeDeposit.Size = new System.Drawing.Size(482, 89);
             this.OwnerMakeDeposit.TabIndex = 43;
             // 
+            // menuStrip1
+            // 
+            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.Search,
+            this.Sort,
+            this.Save,
+            this.aboutProgram});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(1415, 30);
+            this.menuStrip1.TabIndex = 44;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // Search
+            // 
+            this.Search.Name = "Search";
+            this.Search.Size = new System.Drawing.Size(67, 26);
+            this.Search.Text = "Поиск";
+            // 
+            // Sort
+            // 
+            this.Sort.Name = "Sort";
+            this.Sort.Size = new System.Drawing.Size(109, 26);
+            this.Sort.Text = "Сортировка";
+            // 
+            // Save
+            // 
+            this.Save.Name = "Save";
+            this.Save.Size = new System.Drawing.Size(99, 26);
+            this.Save.Text = "Сохранить";
+            // 
+            // aboutProgram
+            // 
+            this.aboutProgram.Name = "aboutProgram";
+            this.aboutProgram.Size = new System.Drawing.Size(120, 26);
+            this.aboutProgram.Text = "О программе";
+            this.aboutProgram.Click += new System.EventHandler(this.aboutProgram_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -494,8 +539,13 @@
             this.Controls.Add(this.DateTimeDeposit);
             this.Controls.Add(this.TextDate);
             this.Controls.Add(this.TextTypeOfDeposit);
+            this.Controls.Add(this.menuStrip1);
+            this.MainMenuStrip = this.menuStrip1;
+    
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.AgeOfOwner)).EndInit();
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -537,6 +587,11 @@
         private System.Windows.Forms.CheckBox sms;
         private System.Windows.Forms.CheckBox banking;
         private System.Windows.Forms.CheckedListBox OwnerMakeDeposit;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem Search;
+        private System.Windows.Forms.ToolStripMenuItem Sort;
+        private System.Windows.Forms.ToolStripMenuItem Save;
+        private System.Windows.Forms.ToolStripMenuItem aboutProgram;
     }
 }
 

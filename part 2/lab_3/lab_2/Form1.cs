@@ -155,5 +155,10 @@ namespace lab_2
             }
 
         }
+
+        private void aboutProgram_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Made by Valentina Ivantsova\nAll rights reserved");
+        }
     }
 }

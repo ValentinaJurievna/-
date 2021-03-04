@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <AccountNumber>3424-2334-2343-2233</AccountNumber>
+    <TypeOfDeposit>"Живые деньги" в BYN</TypeOfDeposit>
+    <AmountOnDeposit>4233₽:</AmountOnDeposit>
+    <DateTimeDeposit>1 марта 2021 г.</DateTimeDeposit>
+    <OwnerMakeDeposit>dddddddd dddddd ddd; Женский пол; 18 лет; Номер паспорта: dd3332323</OwnerMakeDeposit>
+    <sms>Подключение смс-оповещений</sms>
+  </Account>
+</ArrayOfAccount>
